@@ -1,0 +1,25 @@
+_repo: Harper-s-Young-People-September-5-1882-An-Illustrated-Weekly_59586
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2019-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s periodicals, American'
+- !lcc 'AP'
+- GITenberg
+title: 'Harper''s Young People, September 5, 1882
+
+  An Illustrated Weekly'
+url: http://www.gutenberg.org/ebooks/59586
